@@ -9,22 +9,12 @@ if ($.isNode()){
   }
 const shareCodes = [
   {
-    zd: "qwmkwedt5pnudvik5qlpdqswshjc4o3tva4uqii",
-    nc: "eb6c342da930464a997ed03b8bea49d9",
-    mc: "MTAxODc2NTEzOTAwMDAwMDAyODI1NzQxNQ==",
-    dd: "P04z54XCjVWnYaS5m9cZx2atAcQ9eSrr5Cpuw",
-    jx: "IO6FIBzYeEztXOK7BigRuA==",
-    zz: "AUWE54s_5tm9oVhiJmR0b",
-    joy: "Fxn3_9qt5P_Rt3JFz7yZyg=="
-  },
-  {
-    zd: "e7lhibzb3zek3rus7xktpq2wmwzbccmdzsxerla",
-    nc: "69c262ee6b414944869828915ae74be9",
-    mc: "MTE1NDUyMjEwMDAwMDAwNDI1NDgwMjE=",
-    dd: "P04z54XCjVWnYaS5m9cZ2T_iXtCwUwWbrJw2hc",
-    jx: "zGL7La1hPe-boRUrceb6Gg==",
-    zz: "AUWE5m6rEyj1cDmXx1HQenA",
-   joy: "Fxn3_89ghy_Rt3JFz7yZyg=="
+    zd: "n6tm7br2xxaa4cbqma44a5omnen447otmvengmy",
+    nc: "36c15b2b40734e5c82ed483ab4e80359",
+    mc: "MTAxODc2NTEzMzAwMDAwMDAyMDkxMzk5Nw==",
+    dd: "T022vf57QxkQ9lzTPRvwnPYJcQCjVWnYaS5kRrbA",
+    jx: "iOR6aJ4M0gFCMPrHGdeP9w==",
+    zz:"Svf57QxkQ9lzTPRvwnPYJcQ"
   },
 
 ];
