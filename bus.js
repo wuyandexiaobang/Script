@@ -14,7 +14,7 @@ const shareCodes = [
     mc: "MTAxODc2NTEzMzAwMDAwMDAyMDkxMzk5Nw==",
     dd: "T022vf57QxkQ9lzTPRvwnPYJcQCjVWnYaS5kRrbA",
     jx: "iOR6aJ4M0gFCMPrHGdeP9w==",
-    zz:"Svf57QxkQ9lzTPRvwnPYJcQ"
+    zz: "Svf57QxkQ9lzTPRvwnPYJcQ"
   },
 
 ];
